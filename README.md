@@ -1,5 +1,5 @@
 ###
-<img href='https://www.codewars.com/users/matthewnolancintron/badges/small'>
+<img src='https://www.codewars.com/users/matthewnolancintron/badges/small'>
 <!--
 **matthewnolancintron/matthewnolancintron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
